@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  web:
+    build:
+      dockerfile: docker/web.dockerfile
+      context: .
+    command: >
+      sh -c "
+              python app.py"
+    container_name: api_ssa
+    ports:
+      - 8050:8050
+    environment:
+      - PORT=8050
+    networks:
+      - develop-network
+
+networks:
+  develop-network:
+    driver: bridge

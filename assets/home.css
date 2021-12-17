@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/* 
+    BARRA DE ROLAGEM
+*/
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: transparent;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #aaa;
+    border-radius: 20px;
+}
+
+body{
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.page {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    box-sizing: border-box;
+    height: 100vh;
+    overflow: auto;
+}
+
+.panel {
+    height: 100vh;
+    width: 23vw;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background: #067c37;
+    padding: 0px 15px;
+}
+
+.panel__title {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: #F5F5F5;
+    font-size: 2.3rem;
+    padding: 10px 0px;
+    background-color: #058d3e;
+    box-shadow: 3px 3px 7px #05753469;
+    margin: 15px 0px 40px 0px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.panel__bar {
+    width: 100%;
+}
+
+.panel__item-filter {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.panel__item-filter__dropdown-label {
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    color: #F5F5F5;
+    font-size: 1.6rem;
+}
+
+.panel__item-filter__dropdown {
+    cursor: pointer;
+    width: 94%;
+}
+
+.panel__logo{
+    width: 160px;
+    object-fit: cover;
+    margin-top: 30px;
+}
+
+.dashboard {
+    width: 77vw;
+    height: 100vh;
+    background-color: #F8F8F8;
+}
+
+.dashboard__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 15vh;
+    box-sizing: border-box;
+    padding: 0px 20px;
+}
+
+.dashboard__header__info{
+    display: flex;
+}
+
+.dashboard__header__info__value {
+    font-family: 'Lato', sans-serif;
+    font-size: 2.7rem; 
+    margin-left: 20px;
+}
+
+.dashboard__header__info__text{
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5rem;
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+.dashboard__header__img-export {
+    width: 40px;
+    color: #0A0A0A;
+}
+
+.graphs-area {
+    box-sizing: border-box;
+    display: flex;
+    overflow: auto;
+    flex-wrap: wrap;
+    height: 85vh;
+    padding: 30px 0px;
+    margin: 0px 12px;
+    transform: translateY(-15px);
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #e2e2e2;
+    box-shadow: 5px 5px 10px rgba(136, 136, 136, 0.521);
+}
+
+.graphs__graph {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#graph1, #graph2, #graph3, #graph4, #graph5, #graph6{
+    margin-bottom: 50px;
+}
+
+.graphs__graph__img {
+    width: 35vw;
+    height: 450px;
+    overflow: auto;
+}
+
+.graphs__graph-map__img {
+    width: 35vw;
+}
+
+.graphs__graph__title {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: #0A0A0A;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.modal{
+    width: 800px;
+    height: 500px; 
+    background-color: #07a047;
+    position: absolute;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px 40px;
+    display: none;
+    left: calc(50vw - 400px);
+    top: calc(50vh - 250px);
+}
+
+.far.fa-times-circle{
+    color: #ccc;
+    cursor: pointer;
+    font-size: 2.2rem;
+    float: right;
+    transform: translateY(5px);
+    transition: 0.2s ease-in-out color;
+}
+
+.far.fa-times-circle:hover{
+    color: rgb(243, 104, 104);
+}
+
+.modal__header{
+    font-size: 2.4rem;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.modal__line{
+    width: 100%;
+}
+
+.modal__body{
+    margin-top: 20px;
+}
+
+.modal__title{
+    font-size: 2rem;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    margin-top: 10px;
+}
+
+.modal__input-email{
+    width: 100%;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+.modal__dropdown{
+    width: 35%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.modal__footer {
+    text-align: center;
+}
+
+.modal__button {
+    color: #fff; 
+    border-radius: 20px; 
+    font-size: 1.5rem;
+    width: 150px;
+    border: 1px solid #fff;
+    font-family: 'Lato', sans-serif;
+    box-shadow: 2px 2px 10px #064d24a6;
+    margin: 0 auto;
+    transform: translate(0px, 90px);
+}
+
+.modal__feedback-email{
+    color: red;
+    font-size: 1.4rem;
+    box-sizing: border-box;
+}

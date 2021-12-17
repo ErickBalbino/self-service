@@ -1,0 +1,297 @@
+[
+    { 
+        "city": "Ararendá", 
+        "city_api": "Ararenda", 
+        "FIPS": 2301257 
+    },
+    { 
+        "city": "Choró", 
+        "city_api": "Choro", 
+        "FIPS": 2303931 
+    },
+    { 
+        "city": "Santa Quitéria", 
+        "city_api": "Santa Quiteria", 
+        "FIPS": 2312205 
+    },
+    { 
+        "city": "Itapagé", 
+        "city_api": "Itapaje", 
+        "FIPS": 2306306 
+    },
+    { 
+        "city": "São Luís do Curu", 
+        "city_api": "Sao Luis do Curu", 
+        "FIPS": 2312601 
+    },
+    { 
+        "city": "Apuiarés", 
+        "city_api": "Apuiares", 
+        "FIPS": 2300903 
+    },
+    { 
+        "city": "Assaré", 
+        "city_api": "Assare", 
+        "FIPS": 2301604 
+    },
+    { 
+        "city": "Cariús", 
+        "city_api": "Carius", 
+        "FIPS": 2303303 
+    },
+    { 
+        "city": "Senador Sá", 
+        "city_api": "Senador Sa", 
+        "FIPS": 2312809 
+    },
+    { 
+        "city": "Independência", 
+        "city_api": "Independencia", 
+        "FIPS": 2305605 
+    },
+    { 
+        "city": "Icó", 
+        "city_api": "Ico", 
+        "FIPS": 2305407 
+    },
+    { 
+        "city": "Quixelô", 
+        "city_api": "Quixelo", 
+        "FIPS": 2311355 
+    },
+    { 
+        "city": "Viçosa do Ceará", 
+        "city_api": "Vicosa do Ceara", 
+        "FIPS": 2314102 
+    },
+    { 
+        "city": "Missão Velha", 
+        "city_api": "Missao Velha", 
+        "FIPS": 2308401 
+    },
+    { 
+        "city": "São Benedito", 
+        "city_api": "Sao Benedito", 
+        "FIPS": 2312304 
+    },
+    { 
+        "city": "Eusébio", 
+        "city_api": "Eusebio", 
+        "FIPS": 2304285 
+    },
+    { 
+        "city": "Quiterianópolis", 
+        "city_api": "Quiterianopolis", 
+        "FIPS": 2311264 
+    },
+    { 
+        "city": "Irauçuba", 
+        "city_api": "Iraucuba", 
+        "FIPS": 2306108 
+    },
+    { 
+        "city": "Maracanaú", 
+        "city_api": "Maracanau", 
+        "FIPS": 2307650 
+    },
+    { 
+        "city": "Mombaça", 
+        "city_api": "Mombaca", 
+        "FIPS": 2308500 
+    },
+    { 
+        "city": "Tejuçuoca", 
+        "city_api": "Tejucuoca", 
+        "FIPS": 2313351 
+    },
+    { 
+        "city": "Canindé", 
+        "city_api": "Caninde", 
+        "FIPS": 2302800 
+    },
+    { 
+        "city": "Várzea Alegre", 
+        "city_api": "Varzea Alegre", 
+        "FIPS": 2314003 
+    },
+    { 
+        "city": "Redenção", 
+        "city_api": "Redencao", 
+        "FIPS": 2311603 
+    },
+    { 
+        "city": "Guaiúba", 
+        "city_api": "Guaiuba", 
+        "FIPS": 2304954 
+    },
+    { 
+        "city": "Pacujá", 
+        "city_api": "Pacuja", 
+        "FIPS": 2309904 
+    },
+    { 
+        "city": "Solonópole", 
+        "city_api": "Solonopole", 
+        "FIPS": 2313005 
+    },
+    { 
+        "city": "Martinópole", 
+        "city_api": "Martinopole", 
+        "FIPS": 2307908 
+    },
+    { 
+        "city": "Ererê", 
+        "city_api": "Erere", 
+        "FIPS": 2304277 
+    },
+    { 
+        "city": "Caririaçu", 
+        "city_api": "Caririacu", 
+        "FIPS": 2303204 
+    },
+    { 
+        "city": "Icapuí", 
+        "city_api": "Icapui", 
+        "FIPS": 2305357 
+    },
+    { 
+        "city": "Crateús", 
+        "city_api": "Crateus", 
+        "FIPS": 2304103 
+    },
+    { 
+        "city": "Massapê", 
+        "city_api": "Massape", 
+        "FIPS": 2308005 
+    },
+    { 
+        "city": "Milhã", 
+        "city_api": "Milha", 
+        "FIPS": 2308351 
+    },
+    { 
+        "city": "Moraújo", 
+        "city_api": "Moraujo",
+         "FIPS": 2308807
+        },
+    { 
+        "city": "Tianguá", 
+        "city_api": "Tiangua", 
+        "FIPS": 2313401 
+    },
+    { 
+        "city": "Banabuiú", 
+        "city_api": "Banabuiu", 
+        "FIPS": 2301851 
+    },
+    { 
+        "city": "Cariré", 
+        "city_api": "Carire", 
+        "FIPS": 2303105 
+    },
+    { 
+        "city": "Orós", 
+        "city_api": "Oros", 
+        "FIPS": 2309508 
+    },
+    { 
+        "city": "Coreaú", 
+        "city_api": "Coreau", 
+        "FIPS": 2304004 
+    },
+    { 
+        "city": "Hidrolândia", 
+        "city_api": "Hidrolandia", 
+        "FIPS": 2305209 
+    },
+    { 
+        "city": "Croatá", 
+        "city_api": "Croata", 
+        "FIPS": 2304236 
+    },
+    { 
+        "city": "Miraíma", 
+        "city_api": "Miraima", 
+        "FIPS": 2308377 
+    },
+    { 
+        "city": "Tauá", 
+        "city_api": "Taua", 
+        "FIPS": 2313302 
+    },
+    { 
+        "city": "Acaraú", 
+        "city_api": "Acarau", 
+        "FIPS": 2300200 
+    },
+    { 
+        "city": "Palmácia", 
+        "city_api": "Palmacia", 
+        "FIPS": 2310100 
+    },
+    { 
+        "city": "Santana do Acaraú", 
+        "city_api": "Santana do Acarau", 
+        "FIPS": 2312007 
+    },
+    { 
+        "city": "Baturité", 
+        "city_api": "Baturite", 
+        "FIPS": 2302107 
+    },
+    { 
+        "city": "Quixeré", 
+        "city_api": "Quixere", 
+        "FIPS": 2311504 
+    },
+    { 
+        "city": "Itaiçaba", 
+        "city_api": "Itaicaba", 
+        "FIPS": 2306207 
+    },
+    { 
+        "city": "Groaíras", 
+        "city_api": "Groairas", 
+        "FIPS": 2304905 
+    },
+    { 
+        "city": "Jucás", 
+        "city_api": "Jucas", 
+        "FIPS": 2307403 
+    },
+    { 
+        "city": "São João do Jaguaribe", 
+        "city_api": "Sao Joao do Jaguaribe", 
+        "FIPS": 2312502 
+    },
+    { 
+        "city": "Itapiúna", 
+        "city_api": "Itapiuna", 
+        "FIPS": 2306504 
+    },
+    { 
+        "city": "Alcântaras", 
+        "city_api": "Alcantaras", 
+        "FIPS": 2300507 
+    },
+    { 
+        "city": "Quixadá", 
+        "city_api": "Quixada", 
+        "FIPS": 2311306 
+    },
+    { 
+        "city": "São Gonçalo do Amarante", 
+        "city_api": "Sao Goncalo do Amarante", 
+        "FIPS": 2312403 
+    },
+    { 
+        "city": "Graça", 
+        "city_api": "Graca", 
+        "FIPS": 2304657 
+    },
+    { 
+        "city": "Qualquer", 
+        "city_api": "Qualquer",
+        "FIPS": "NaN" 
+    }
+]

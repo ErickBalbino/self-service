@@ -1,0 +1,922 @@
+[
+	{
+		"cidade" : "Abaiara",
+		"regiao" : "Cariri",
+		"inscritos": 85
+	},
+	{
+		"cidade" : "Acarape",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Acarau",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Acopiara",
+		"regiao" : "Centro Sul",
+		"inscritos": 127
+	},
+	{
+		"cidade" : "Aiuaba",
+		"regiao" : "Sertão dos Inhamuns",
+		"inscritos": 584
+	},
+	{
+		"cidade" : "Alcantaras",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 2212
+	},
+	{
+		"cidade" : "Altaneira",
+		"regiao" : "Cariri",
+		"inscritos": 35
+	},
+	{
+		"cidade" : "Alto Santo",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Amontada",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Antonina do Norte",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Apuiares",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 971
+	},
+	{
+		"cidade" : "Aquiraz",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Aracati",
+		"regiao" : "Litoral Leste",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Aracoiaba",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 1467
+	},
+	{
+		"cidade" : "Ararenda",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Araripe",
+		"regiao" : "Cariri",
+		"inscritos": 545
+	},
+	{
+		"cidade" : "Aratuba",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 56
+	},
+	{
+		"cidade" : "Arneiroz",
+		"regiao" : "Sertão dos Inhamuns",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Assare",
+		"regiao" : "Cariri",
+		"inscritos": 542
+	},
+	{
+		"cidade" : "Aurora",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Baixio",
+		"regiao" : "Centro Sul",
+		"inscritos": 12
+	},
+	{
+		"cidade" : "Banabuiu",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Barbalha",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Barreira",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Barro",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Barroquinha",
+		"regiao" : "Litoral Norte",
+		"inscritos": 89
+	},
+	{
+		"cidade" : "Baturite",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Beberibe",
+		"regiao" : "Litoral Leste",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Bela Cruz",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Boa Viagem",
+		"regiao" : "Sertão de Canindé",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Brejo Santo",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Camocim",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Campos Sales",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Caninde",
+		"regiao" : "Sertão de Canindé",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Capistrano",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Caridade",
+		"regiao" : "Sertão de Canindé",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Carire",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Caririacu",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Carius",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Carnaubal",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Cascavel",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Catarina",
+		"regiao" : "Centro Sul",
+		"inscritos": 421
+	},
+	{
+		"cidade" : "Catunda",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Caucaia",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Cedro",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Chaval",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Choro",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Chorozinho",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 34
+	},
+	{
+		"cidade" : "Coreau",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Crateus",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Crato",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Croata",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Cruz",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Deputado Irapuan Pinheiro",
+		"regiao" : "Sertão Central",
+		"inscritos": 374
+	},
+	{
+		"cidade" : "Erere",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Eusebio",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Farias Brito",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Forquilha",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Fortaleza",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Fortim",
+		"regiao" : "Litoral Leste",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Frecheirinha",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "General Sampaio",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 597
+	},
+	{
+		"cidade" : "Graca",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Granja",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Granjeiro",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Groairas",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Guaiuba",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Guaraciaba do Norte",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Guaramiranga",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 2047
+	},
+	{
+		"cidade" : "Hidrolandia",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Horizonte",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ibaretama",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ibiapina",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ibicuitinga",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Icapui",
+		"regiao" : "Litoral Leste",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ico",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Iguatu",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Independencia",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 642
+	},
+	{
+		"cidade" : "Ipaporanga",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ipaumirim",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ipu",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ipueiras",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Iracema",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Iraucuba",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Itaicaba",
+		"regiao" : "Litoral Leste",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Itaitinga",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Itapaje",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 970
+	},
+	{
+		"cidade" : "Itapipoca",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Itapiuna",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Itarema",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Itatira",
+		"regiao" : "Sertão de Canindé",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Jaguaretama",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Jaguaribara",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Jaguaribe",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Jaguaruana",
+		"regiao" : "Litoral Leste",
+		"inscritos": 10
+	},
+	{
+		"cidade" : "Jardim",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Jati",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Jijoca de Jericoacoara",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Juazeiro do Norte",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Jucas",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Lavras da Mangabeira",
+		"regiao" : "Cariri",
+		"inscritos": 5
+	},
+	{
+		"cidade" : "Limoeiro do Norte",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Madalena",
+		"regiao" : "Sertão de Canindé",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Maracanau",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Maranguape",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Marco",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Martinopole",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Massape",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Mauriti",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Meruoca",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Milagres",
+		"regiao" : "Cariri",
+		"inscritos": 1015
+	},
+	{
+		"cidade" : "Milha",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Miraima",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Missao Velha",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Mombaca",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Monsenhor Tabosa",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Morada Nova",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 1224
+	},
+	{
+		"cidade" : "Moraujo",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Morrinhos",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Mucambo",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Mulungu",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Nova Olinda",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Nova Russas",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Novo Oriente",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ocara",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Oros",
+		"regiao" : "Centro Sul",
+		"inscritos": 179
+	},
+	{
+		"cidade" : "Pacajus",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Pacatuba",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Pacoti",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Pacuja",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Palhano",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Palmacia",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 642
+	},
+	{
+		"cidade" : "Paracuru",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Paraipaba",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Parambu",
+		"regiao" : "Sertão dos Inhamuns",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Paramoti",
+		"regiao" : "Sertão de Canindé",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Pedra Branca",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Penaforte",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Pentecoste",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Pereiro",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Pindoretama",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Piquet Carneiro",
+		"regiao" : "Sertão Central",
+		"inscritos": 457
+	},
+	{
+		"cidade" : "Pires Ferreira",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Poranga",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Porteiras",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Potengi",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Potiretama",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Quiterianopolis",
+		"regiao" : "Sertão dos Inhamuns",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Quixada",
+		"regiao" : "Sertão Central",
+		"inscritos": 341
+	},
+	{
+		"cidade" : "Quixelo",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Quixeramobim",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Quixere",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Redencao",
+		"regiao" : "Maciço de Baturité",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Reriutaba",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Russas",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Saboeiro",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Salitre",
+		"regiao" : "Cariri",
+		"inscritos": 87
+	},
+	{
+		"cidade" : "Santa Quiteria",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Santana do Acarau",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Santana do Cariri",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Sao Benedito",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Sao Goncalo do Amarante",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 212
+	},
+	{
+		"cidade" : "Sao Joao do Jaguaribe",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 21
+	},
+	{
+		"cidade" : "Sao Luis do Curu",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Senador Pompeu",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Senador Sa",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 1
+	},
+	{
+		"cidade" : "Sobral",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 897
+	},
+	{
+		"cidade" : "Solonopole",
+		"regiao" : "Sertão Central",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Tabuleiro do Norte",
+		"regiao" : "Vale do Jaguaribe",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Tamboril",
+		"regiao" : "Sertão de Crateús",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Tarrafas",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Taua",
+		"regiao" : "Sertão dos Inhamuns",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Tejucuoca",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 782
+	},
+	{
+		"cidade" : "Tiangua",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Trairi",
+		"regiao" : "Grande Fortaleza",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Tururu",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Ubajara",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Umari",
+		"regiao" : "Centro Sul",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Umirim",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Uruburetama",
+		"regiao" : "Litoral Oeste \/ Vale do Curu",
+		"inscritos": 327
+	},
+	{
+		"cidade" : "Uruoca",
+		"regiao" : "Litoral Norte",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Varjota",
+		"regiao" : "Sertão de Sobral",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Varzea Alegre",
+		"regiao" : "Cariri",
+		"inscritos": 0
+	},
+	{
+		"cidade" : "Vicosa do Ceara",
+		"regiao" : "Serra da Ibiapaba",
+		"inscritos": 0
+	}
+]
