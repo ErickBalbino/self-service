@@ -37,7 +37,7 @@ body{
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    background: #067c37;
+    background: linear-gradient( #058038 20% , #046b2f 60%);
     padding: 0px 15px;
 }
 
@@ -190,7 +190,7 @@ body{
 }
 
 .modal__header{
-    font-size: 2.4rem;
+    font-size: 2.5rem;
     color: #fff;
     font-family: 'Lato', sans-serif;
     text-align: center;
@@ -200,8 +200,25 @@ body{
     width: 100%;
 }
 
-.modal__body{
+.modal__body__container{
     margin-top: 20px;
+    display: flex;
+    width: 100%
+}
+
+.modal__body__container__fields{
+    width: 50%;
+}
+
+.modal__body__container__image{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal__body__container__image img{
+    width: 250px;
 }
 
 .modal__title{
@@ -218,7 +235,7 @@ body{
 }
 
 .modal__dropdown{
-    width: 35%;
+    width: 100%;
     display: inline-block;
     cursor: pointer;
 }
@@ -236,7 +253,7 @@ body{
     font-family: 'Lato', sans-serif;
     box-shadow: 2px 2px 10px #064d24a6;
     margin: 0 auto;
-    transform: translate(0px, 90px);
+    transform: translate(0px, 40px);
 }
 
 .modal__feedback-email{

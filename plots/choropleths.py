@@ -1,30 +1,12 @@
 # Constantes auxiliares plotagem Ceará
 import plotly.express as px
 
+from app import logger
+
 
 LAT = -5.30
 LON = -39.35
 ZOOM = 5.8
-
-
-def inscritos_cidade(df=None, geojson=None):
-    try:
-        choropleph_chart = px.choropleth_mapbox(df,
-                                                geojson=geojson,
-                                                color_continuous_scale="greens",
-                                                locations="cidade",
-                                                featureidkey="properties.name",
-                                                color=df.inscritos,
-                                                width=100,
-                                                center={"lat": LAT, "lon": LON},
-                                                mapbox_style="carto-positron",
-                                                zoom=ZOOM)
-        choropleph_chart.update_layout(margin=dict(r=0, t=0, l=0, b=0))
-    except Exception as e:
-        print(f'inscritos_cidade_choropleth: {e}')
-        choropleph_chart = {}
-    return {}
-
 
 def inscritos_regiao(df_cidade=None, df_regiao=None, geojson=None):
     try:
@@ -59,6 +41,28 @@ def inscritos_regiao(df_cidade=None, df_regiao=None, geojson=None):
                 font_size=16,
                 font_family="Roboto"))
         choropleph_chart.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+        logger.info('Choropleth regiao carregado com sucesso')
     except Exception as e:
+        logger.error(f'inscritos_regiao_choropleth: {e}')
+        choropleph_chart = {}
+    return {}
+
+
+def inscritos_cidade(df=None, geojson=None):
+    try:
+        choropleph_chart = px.choropleth_mapbox(df,
+                                                geojson=geojson,
+                                                color_continuous_scale="greens",
+                                                locations="cidade",
+                                                featureidkey="properties.name",
+                                                color=df.inscritos,
+                                                width=100,
+                                                center={"lat": LAT, "lon": LON},
+                                                mapbox_style="carto-positron",
+                                                zoom=ZOOM)
+        choropleph_chart.update_layout(margin=dict(r=0, t=0, l=0, b=0))
+        logger.info('Choropleth cidade carregado com sucesso')
+    except Exception as e:
+        logger.error(f'inscritos_cidade_choropleth: {e}')
         choropleph_chart = {}
     return {}
